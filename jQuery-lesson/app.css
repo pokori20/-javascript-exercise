@@ -1,0 +1,18 @@
+.box1 {
+  display: none;
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+}
+/* $('セレクタ).css('background-color','#0000FF');
+CSSメソッドの書き方
+$('セレクタ').css({
+  'プロパティ1': '値1',
+  'プロパティ2': '値2',
+
+  :
+  :
+
+  'プロパティn': '値3'
+});
+アニメーションを追加 */
